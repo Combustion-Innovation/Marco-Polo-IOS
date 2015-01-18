@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+pod 'AFNetworking', '~> 2.0'
+pod 'UIActivityIndicator-for-SDWebImage'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'INTULocationManager'
+pod 'KVNProgress'
+pod 'SWTableViewCell', '~> 0.3.7'
